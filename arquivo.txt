@@ -1,0 +1,2 @@
+python is nice
+curso de bs4
